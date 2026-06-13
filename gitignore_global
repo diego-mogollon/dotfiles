@@ -1,0 +1,5 @@
+# Global gitignore — applies to every repo on this machine.
+# Wired via `git config --global core.excludesfile ~/.gitignore_global`.
+
+# macOS Finder per-folder view-settings junk
+.DS_Store
